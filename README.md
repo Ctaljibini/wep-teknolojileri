@@ -1,1 +1,1 @@
-# wep-teknolojileri
+# web-teknolojileri
